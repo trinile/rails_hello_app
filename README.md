@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# rails_hello_app
+simple hello world app using rails
+
